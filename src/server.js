@@ -13,7 +13,7 @@ const app = express();
 
 const adminJS = new AdminJS({
   databases: [],
-  rootPath: '/admin',
+  rootPath: "/admin",
   resources: []
 });
 
